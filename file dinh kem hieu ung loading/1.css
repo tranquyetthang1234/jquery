@@ -1,0 +1,7 @@
+*{margin: 0; padding: 0;}
+
+hr.keduoi {
+    background: brown;
+    border-color: brown;
+} 
+body{overflow-x: hidden;}

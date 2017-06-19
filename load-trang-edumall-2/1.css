@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0;}
+
+.hinhload.text-center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 190px;
+    height: 190px;
+    margin-left: -95px;
+    margin-top: -95px;
+}
+
+.khoiload {
+}
+
+hr.keduoi {
+    background: brown;
+    border-color: brown;
+} 
+body{overflow-x: hidden;}
